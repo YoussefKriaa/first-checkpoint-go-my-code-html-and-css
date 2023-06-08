@@ -1,0 +1,25 @@
+.nav{
+    display: inline-flex;
+    padding-inline: 10px;
+    
+}
+.logo{
+    height: 150px;
+    width: 150px;
+    margin-top: 250;
+}
+.name{
+    padding-right: 100px;
+    padding-left: 450px;
+    padding-bottom: 100px;
+    color: aliceblue;
+}
+.servise{
+    padding-left: 200px;
+    display: inline-flex;
+    color: aliceblue;
+}
+body
+{
+    background-color: black;
+}
